@@ -1,14 +1,14 @@
 <div align="center">
   <h1>Hi there, I'm Ali Masood 👋</h1>
-  <h3>💻 Technical Lead | ⚡ Full-Stack Developer | 📊 Data Analyst | 🩺 DVM</h3>
-  <p><em>Bridging the gap between robust software engineering, data-driven insights, and modern web experiences.</em></p>
+  <h3>💻 Full-Stack Developer</h3>
+  <p><em>Bridging the gap between robust software engineering and modern web experiences.</em></p>
 </div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on building scalable full-stack applications and data solutions.
-- 💬 Ask me about **React, Next.js, Astro, TypeScript, Supabase, and Data Analysis**.
+- 🔭 I’m currently working on building scalable full-stack web applications.
+- 💬 Ask me about **React, Next.js, Astro, TypeScript.**.
 - 📫 Reach me at **[alimasood.dev](https://alimasood.dev)**.
 
 ---
@@ -43,16 +43,5 @@
 
 ---
 
-### 📊 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alimasoodofficial&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ali's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimasoodofficial&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 🌐 Connect With Me
 - 🌐 **Portfolio/Website:** [alimasood.dev](https://alimasood.dev)
-- 🐙 **GitHub:** [alimasoodofficial](https://github.com/alimasoodofficial)
