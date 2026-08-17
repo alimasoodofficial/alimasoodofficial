@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Ali Masood 👋</h1>
-  <h3>💻 Full-Stack Developer</h3>
+  <h3>💻 Software Engineer</h3>
   <p><em>Bridging the gap between robust software engineering and modern web experiences.</em></p>
 </div>
 
